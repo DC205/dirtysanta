@@ -17,7 +17,6 @@ Welcome to the **DC205 Dirty Santa** repository! This project hosts ASCII art, s
 DC205 Dirty Santa is a unique holiday tradition inspired by the hacker ethos. This repository contains:
 - ASCII art to spread the festive cheer.
 - Scripts to randomize gifts or generate event-related fun.
-- Resources for organizing and running the event.
 
 Whether you're part of DC205 or just looking for creative ideas, this repo is for you.
 
@@ -25,8 +24,7 @@ Whether you're part of DC205 or just looking for creative ideas, this repo is fo
 
 ## Features
 - **Dynamic ASCII Art:** Display and customize ASCII art using Python.
-- **Gift Randomizer Script:** Ensure fairness and fun during gift exchanges.
-- **Event Organization Resources:** Templates and guidelines for hosting your own Dirty Santa.
+- **Randomizer Script:** Ensure fairness and fun during gift exchanges.
 
 ---
 

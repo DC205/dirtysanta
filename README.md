@@ -82,8 +82,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ---
 
 ## Contact
-- **DC205**: Join our [DEFCON 205](https://defcon.org/) community for more events and updates.
-- **Maintainer**: [Kierston Grantham](mailto:kierston@example.com)  
+- **DC205**: Join our [DEFCON 205](https://dc205.org) community for more events and updates.
+- **Maintainer**: [Kierston Grantham](mailto:admin@dc205.org)  
 
 ---
 
